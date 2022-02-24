@@ -1,7 +1,7 @@
 # Grapher     
  
 Grapher is a basic graphing tool which uses print statements to output a line.
-The line is made up of Unicode characters that are output in the interpreter.
+The line is made up of Unicode characters that are output on labelled axes in the Python interpreter.
 	
 ![0125x15](screenshots/0125x15.png)
 ![10x02](screenshots/10x02.png)
